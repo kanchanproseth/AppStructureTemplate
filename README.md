@@ -29,3 +29,6 @@ pod 'RxRealm'
 pod 'Kingfisher', '~> 7.0'
 pod 'NVActivityIndicatorView'
 ```
+
+
+By 👿 Dark Eternal Code 👿
